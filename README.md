@@ -17,11 +17,11 @@ This Go package provides a simple web server with basic routing functionality. I
 
 1. Clone this repository:
    ```bash
-   git clone <repository-url>
+   git clone git@github.com:aydenjahola/go-webserver.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd <project-directory>
+   cd go-webserver
    ```
 
 ## Usage
